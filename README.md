@@ -13,11 +13,10 @@ Here what we'll do in this kernel:
 
 
 Classification Report for K-Nearest Neighbours: 
-               precision    recall  f1-score   support
 
+               precision    recall  f1-score   support
            0       1.00      0.98      0.99    176233
            1       0.98      1.00      0.99    176233
-
     accuracy                           0.99    352466
    macro avg       0.99      0.99      0.99    352466
 weighted avg       0.99      0.99      0.99    352466
@@ -28,10 +27,8 @@ Confusion Matrix of K-Nearest Neighbours:
  
 Classification Report for Random Forest Classifier: 
                precision    recall  f1-score   support
-
            0       0.99      0.97      0.98    176233
            1       0.97      0.99      0.98    176233
-
     accuracy                           0.98    352466
    macro avg       0.98      0.98      0.98    352466
 weighted avg       0.98      0.98      0.98    352466
@@ -42,11 +39,10 @@ Confusion Matrix of Random Forest Classifier:
  
  
 Classification Report for XGBoost: 
-               precision    recall  f1-score   support
 
+               precision    recall  f1-score   support
            0       1.00      0.99      0.99    176233
            1       0.99      1.00      0.99    176233
-
     accuracy                           0.99    352466
    macro avg       0.99      0.99      0.99    352466
 weighted avg       0.99      0.99      0.99    352466
