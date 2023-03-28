@@ -12,7 +12,7 @@ Here what we'll do in this kernel:
 -> XGBoost Classifier
 
 
-Classification Report for K-Nearest Neighbours: 
+<br/>Classification Report for K-Nearest Neighbours (1:fraudulent,0:non-fraudulent) :
 
          | class | precision |   recall | f1-score  | support |
          | ----- | --------- | -------- | --------- | ------- |
@@ -24,8 +24,8 @@ Classification Report for K-Nearest Neighbours:
 weighted avg       0.99      0.99      0.99    352466
 
 Confusion Matrix of K-Nearest Neighbours: 
- [[171999   4234]
- [   362 175871]]
+ <br/>[171999   4234]
+ <br/>[   362 175871]
  
 Classification Report for Random Forest Classifier: 
                precision    recall  f1-score   support
