@@ -19,14 +19,14 @@ class | precision |   recall | f1-score  | support |
 |  0    |     1.00  |    0.98  |    0.99   |  176233 |
 |  1    |     0.98  |    1.00  |    0.99   |  176233 |
 
-<br/>accuracy                           0.99    352466
-<br/>macro avg       0.99      0.99      0.99    352466
-<br/>weighted avg       0.99      0.99      0.99    352466
+<br/> accuracy                           0.99    352466
+<br/> macro avg       0.99      0.99      0.99    352466
+<br/> weighted avg       0.99      0.99      0.99    352466
            
 
 Confusion Matrix of K-Nearest Neighbours: 
-<br/> [171999   4234]
-<br/> [   362 175871]
+<br/> [171999     4234]
+<br/> [   362   175871]
  
 <br/>Classification Report for Random Forest Classifier: 
 class | precision |   recall | f1-score  | support |
@@ -39,8 +39,8 @@ class | precision |   recall | f1-score  | support |
 <br/>weighted avg       0.98      0.98      0.98    352466
 
 <br/>Confusion Matrix of Random Forest Classifier: 
-<br/> [170106   6127]
-<br/> [  1079 175154]
+<br/> [170106     6127]
+<br/> [  1079   175154]
  
  
 <br/>Classification Report for XGBoost: 
@@ -54,8 +54,8 @@ class | precision |   recall | f1-score  | support |
 <br/>weighted avg       0.99      0.99      0.99    352466
 
 Confusion Matriz of Xboost: 
- <br/> [174033   2200]
- <br/> [   775 175458]
+ <br/> [174033     2200]
+ <br/> [   775   175458]
 
 
 Original Paper:
