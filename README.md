@@ -49,7 +49,7 @@ class | precision |   recall | f1-score  | support |
 |   0   |    1.00   |   0.99   |   0.99    |  176233 |
 |   1   |    0.99   |   1.00   |   0.99    |  176233 |
 
-<br/>
+
 class          |  precision |  recall  | f-1 score |  support |
 | -------------- | ---------- | -------- | --------- | -------- |
 | accuracy       |            |          |   0.99    |   352466 |
