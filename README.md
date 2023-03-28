@@ -50,7 +50,7 @@ class | precision |   recall | f1-score  | support |
 |   1   |    0.99   |   1.00   |   0.99    |  176233 |
 
 <br/>
-                 |  precision |  recall  | f-1 score |  support |
+class          |  precision |  recall  | f-1 score |  support |
 | -------------- | ---------- | -------- | --------- | -------- |
 | accuracy       |            |          |   0.99    |   352466 |
 | macro avg      |    0.99    |    0.99  |   0.99    |   352466 |
